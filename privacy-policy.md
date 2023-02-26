@@ -42,6 +42,17 @@ The information provided on the Site is not intended for distribution to or use 
 
 All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms of Use prior to you using the Site.
 
+## WHAT INFORMATION DO WE COLLECT & HOW IS IT USED?
+Information You Voluntarily Submit to the Website: We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, register for access to the Website, or purchase products or services from the Website. Personal Data may include, but is not limited to, the below:
+
+Your name and email address
+
+
+## PUBLICLY VISIBLE INFORMATION
+If you create a user profile on Social Media Examiner or the Social Media Marketing Society or leave a comment on Social Media Examiner, certain information may be publicly visible.
+
+
+
 
 ## INTELLECTUAL PROPERTY RIGHTS
 
@@ -60,6 +71,29 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 ## USER REGISTRATION
     
 You may be required to register with the Site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
+
+## SPAM POLICY
+Social Media Examiner is strongly opposed to spam. We will only send emails to users that have explicitly requested to receive an email from Social Media Examiner. Examples may include:
+
+Opt-in subscribers to the Social Media Examiner Newsletter
+Users that complete a contact form
+All communication will be related and relevant to what you have requested.
+
+
+
+## OTHER TERMS AND CONDITIONS
+Your access to and use of the Website may also be subject to any separate agreements or terms and conditions you have signed or agreed to with Social Media Examiner. Please refer to those agreements as needed.
+
+Regardless of any other provision in this Privacy Policy, we reserve the right to disclose any personally identifiable or non-personally identifiable information about you to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) protect, in an emergency, the health and safety of our customers or the general public. This includes exchanging information with third parties and organizations in connection with credit risk reduction and fraud protection.
+
+
+
+## WEB LINKS
+Social Media Examiner contains links to other sites. Please be aware that Social Media Examiner is not responsible for the privacy practices or the content of such other sites. We encourage our users to be aware when they leave our site to read the privacy and spam policies of each and every website that collects personally identifiable information. This Privacy and Spam Policy applies solely to information collected by Social Media Examiner.
+
+
+## CHILDREN’S INFORMATION
+Social Media Examiner does not knowingly collect any personally identifiable information from children under the age of 16. If you are under the age of 16, please do not submit any Personal Data through the Website. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Website without their permission. If a parent or guardian believes that Social Media Examiner has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at sautma223@gmail.com and we will use our best efforts to promptly remove such information from our records.
 
 
 
