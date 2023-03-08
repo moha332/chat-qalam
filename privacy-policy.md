@@ -1,6 +1,6 @@
 # Privacy Policy
 
-We Qalam App takes your privacy seriously. To better protect your privacy We provide this privacy policy notice explaining the way your personal information is collected and used.
+We Qalam takes your privacy seriously. To better protect your privacy We provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 
