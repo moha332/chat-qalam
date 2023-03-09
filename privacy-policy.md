@@ -73,7 +73,7 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 You may be required to register with the Site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
 
 ## SPAM POLICY
-Social Media Examiner is strongly opposed to spam. We will only send emails to users that have explicitly requested to receive an email from Social Media Examiner. Examples may include:
+Social Media Examiner is strongly opposed to spam. We will only send emails to admin that have explicitly requested to receive an email from Social Media Examiner. Examples may include:
 
 Opt-in subscribers to the Social Media Examiner Newsletter
 Users that complete a contact form
